@@ -1,4 +1,4 @@
-Certainly! Here's an example of how the code could be refactored using the Factory Method design pattern:
+Here's an example of how the code could be refactored using the Factory Method design pattern:
 
 ```python
 # Corrected Code Snippet
